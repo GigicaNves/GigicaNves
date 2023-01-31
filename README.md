@@ -1,8 +1,10 @@
-### Oiii! Eu sou a Giovanna Neves
+<h2>Oiii! Eu sou a Giovanna Neves</h2>
 
-- 📘 Atualmente eu curso o segundo ano do ensino médio  com técnico em desenvolvimento de sistemas
-- 🌱 Atualmente estou apresendendo JavaScript
-- 😄 Pronouns:  Ela/dela
+
+- 📘 Atualmente eu curso o segundo ano do ensino médio com técnico em desenvolvimento de sistemas
+- 🌱 Estou aprendendo JavaScript
+
+#
 
 <div>
   <a href="https://github.com/GigicaNves">
@@ -21,6 +23,8 @@
   <a href="https://instagram.com/gi_nevesrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="jojoleiteninho17#6784" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "giovanna.neves2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  #
   
    ![Snake animation](https://github.com/GigicaNves/GigicaNves/blob/output/github-contribution-grid-snake.svg)
   
