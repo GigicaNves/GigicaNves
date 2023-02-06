@@ -1,7 +1,7 @@
 <h2>Oiii! Eu sou a Giovanna Neves</h2>
 
 
-- 📘 Atualmente eu curso o segundo ano do ensino médio com técnico em desenvolvimento de sistemas
+- 📘 Atualmente curso o segundo ano do ensino médio com técnico em desenvolvimento de sistemas
 - 🌱 Estou aprendendo JavaScript
 - 🐎 Hobbies: cozinhar e andar à cavalo
 
