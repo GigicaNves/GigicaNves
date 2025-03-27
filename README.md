@@ -20,7 +20,7 @@
 
 - 🔭 Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)
 
-- 👩‍💻 Tecnica em Desenvolvimento de Sistemas
+- 👩‍💻 Tecnica em Desenvolvimento de Sistemas - ETEC de Taboão da Serra
 
 - 📫 Como me achar **giovanna.neves@sou.inteli.edu.br/gigicanves@gmail.com**
 
